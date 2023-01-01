@@ -1,0 +1,33 @@
+/* Write your CSS code here. */
+.topcont {
+  background-color: #ffc0bb;
+  height: 100vh;
+  padding: 10%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card {
+  background-color: #ffffff;
+  border-radius: 20px;
+  padding: 25px;
+  width: 50%;
+  text-align: center;
+}
+.emojicont {
+  display: flex;
+  text-align: center;
+}
+img {
+  height: 55px;
+}
+.allemojies {
+  margin: 40px;
+}
+button {
+  background-color: #ffffff;
+  border: none;
+}
+.thanks {
+  width: 500px;
+}
